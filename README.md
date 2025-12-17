@@ -1,0 +1,46 @@
+# Stakeholder Analysis – Power–Interest Grid
+
+This project demonstrates a structured approach to stakeholder analysis used in business analysis, product management, and project planning.
+
+The repository documents how stakeholders can be identified, assessed, and prioritised based on their power, influence, and level of interest or impact on a project.
+
+## What is Stakeholder Analysis?
+
+Stakeholder analysis is the process of identifying individuals or groups that can influence a project or are affected by its outcomes, and determining how to engage with them effectively.
+
+It is commonly used to:
+- reduce project risk
+- avoid decision bottlenecks
+- manage expectations
+- improve adoption and alignment
+
+## Power–Interest Grid
+
+The project includes a simple HTML visualisation of a Power–Interest Grid, a widely used framework for stakeholder prioritisation.
+
+Stakeholders are classified into four categories:
+- **Manage closely** (high power, high interest)
+- **Keep satisfied** (high power, low interest)
+- **Keep informed** (low power, high interest)
+- **Monitor** (low power, low interest)
+
+This helps focus communication and effort where it has the highest impact.
+
+## Repository Contents
+
+- `README.md` – Explanation of stakeholder analysis and the framework used
+- `power-interest-grid.html` – Static visual representation of the Power–Interest Grid
+- `CODE_OF_CONDUCT.md` – Contributor guidelines
+- `CITATION.cff` – Citation metadata for reuse
+
+## Use Cases
+
+This project can be used as:
+- a reference for stakeholder analysis during project planning
+- a learning artefact for business analysis or product roles
+- a lightweight documentation example for strategy frameworks
+
+## Scope
+
+This is a conceptual and documentation-focused project.  
+It does not include data processing, automation, or backend logic.
